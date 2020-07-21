@@ -1,2 +1,2 @@
-# Sistema-de-Sorteio-Eletr-nico
+# Sistema-de-Sorteio
 Repositório do Sistema de Sorteio Eletrônico
