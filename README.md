@@ -32,3 +32,9 @@
 - Cole a semente que foi copiada anteriormente;
 - Clique em Gerar Lista;
 - Verifique os resultados obtidos com os resultados disponibilizados.
+
+## Stack
+
+- Javascript;
+- Bootstrap;
+- RandomSeed.js;
