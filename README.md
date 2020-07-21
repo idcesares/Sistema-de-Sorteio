@@ -8,7 +8,15 @@ Link para mais informações: https://www.ifsc.edu.br/sorteio-publico
 
 **Biblioteca** utilizada para semente de randomicidade: https://github.com/davidbau/seedrandom | Copyright 2019 David Bau.
 
-**Como fazer a auditoria do sorteio?**
+## Objetivo
+- Este sistema tem como objetivo promover um sorteio eletrônico de vagas com base em uma quantidade de inscritos.
+
+## Como utilizar este sistema
+- Faça o download do repositório;
+- Extraia o conteúdo em uma pasta no seu computador;
+- Execute o arquivo index.html;
+
+## Como fazer a auditoria do sorteio?**
 - Copie a semente utilizada para o sorteio e que foi disponibilizada na geração da lista;
 - Acesse o sistema de sorteio;
 - Preencha as informações de Nome do sorteio, Total de Inscritos e Vagas exatamente como o que foi publicado na listagem oficial disponibilizada;
