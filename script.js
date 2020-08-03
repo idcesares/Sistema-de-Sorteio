@@ -73,6 +73,7 @@ function gereVisualDeCabecalhoDaLista(nomeCurso, semente) {
 	</div>
 	<div class="alert alert-info" role="alert">
 		<strong>Semente utilizada no sorteio: </strong>${semente}<br/>
+		<p>A semente aleatória gerada é um número representando os milissegundos passados entre 1 de Janeiro de 1970 00:00:00 UTC e a data atual.</p>
 	</div>
     <h1 class="text-center">Lista <b>OFICIAL</b> do sorteio: ${nomeCurso}</h1>
     `
