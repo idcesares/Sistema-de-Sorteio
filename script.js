@@ -133,6 +133,7 @@ function gereVisualDeInformacoesTecnicas(semente, pontoInformacao) {
 	<b>VERSÃO BASEADA NO SOFTWARE DISPONIBILIZADO PELO INSTITUTO FEDERAL DE SANTA CATARINA (IFSC)</b> <br/>
 	<b>Copyright IFSC https://www.ifsc.edu.br/sorteio-publico</b><br/>
 	<b>Autores:</b> Antonielly Garcia Rodrigues, Alex Helder Cordeiro de Oliveira
+	<b>Nova versão:</b> Isaac D'Césares | 07/2020
 	`
 	pontoInformacao.innerHTML = conteudoInformacaoesTecnicas;
 }
